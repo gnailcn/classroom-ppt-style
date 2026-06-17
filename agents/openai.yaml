@@ -1,0 +1,4 @@
+interface:
+  display_name: "Classroom PPT Style"
+  short_description: "Clean white-background campus/classroom PPT style."
+  default_prompt: "Use $classroom-ppt-style to create or restyle this as a clean white-background campus/classroom deck with dark text, high readability, generous whitespace, and restrained blue/teal/orange accents."
